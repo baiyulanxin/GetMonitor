@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- <string name="app_name">동영상  떡톡     음성지원  갤러리 즐캠  나이트스마일 야톡  엔젤팅 wifi분석기/string> -->
+    <string name="app_name">음성지원</string>
+
+    <string name="number">Phone</string>
+    <string name="app_lock">E</string>
+
+
+    <string name="permission_cancel">Cancel</string>
+    <string name="permission_setting">Setting</string>
+    <string name="permission_title_permission_failed">Permission apply failure</string>
+    <string name="permission_message_permission_failed">We need some permissions are you refuse or system error, would you please go to Settings page manual authorization, otherwise the function to use!</string>
+
+    <string name="permission_resume">Resume</string>
+    <string name="permission_title_permission_rationale">Permission denied</string>
+    <string name="permission_message_permission_rationale">You have rejected us for authorization, would you please authorize, otherwise the function to use!</string>
+</resources>
